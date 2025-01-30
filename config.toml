@@ -1,0 +1,26 @@
+baseURL = "https://ratherbearpan.github.io/"
+languageCode = "en-us"
+title = "Rather Be Arpan"
+theme = "minimal"
+publishDir = "docs"
+
+[params]
+  name = "Your Name"
+  location = "City, Country"
+  github = "yourusername"
+  linkedin = "yourprofile"
+  instagram = "yourhandle"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 1
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects"
+    weight = 2
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog"
+    weight = 3

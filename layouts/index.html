@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ .Site.Title }}</title>
+    <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+</head>
+<body>
+    {{ partial "sidebar" . }}
+    <main class="content">
+        <h1>{{ .Site.Title }}</h1>
+        {{ .Content }}
+    </main>
+</body>
+</html>

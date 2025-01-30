@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rather Be Arpan</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Rather Be Arpan</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h3 id=&#34;-my-journey&#34;&gt;👨💻 My Journey&lt;/h3&gt;&#xA;&lt;p&gt;Started coding in 2018&amp;hellip;&lt;/p&gt;&#xA;&lt;h3 id=&#34;-employment-history&#34;&gt;🏢 Employment History&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Current Position&lt;/li&gt;&#xA;&lt;li&gt;Previous Role&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-education&#34;&gt;🎓 Education&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Computer Science Degree&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h3 id=&#34;-featured-work&#34;&gt;🚀 Featured Work&lt;/h3&gt;&#xA;&lt;p&gt;[[projects]]&#xA;name = &amp;ldquo;Portfolio Website&amp;rdquo;&#xA;github = &amp;ldquo;&lt;a href=&#34;https://github.com/you/portfolio%22&#34;&gt;https://github.com/you/portfolio&amp;quot;&lt;/a&gt;&#xA;description = &amp;ldquo;My personal portfolio site&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;[[projects]]&#xA;name = &amp;ldquo;Weather App&amp;rdquo;&#xA;github = &amp;ldquo;&lt;a href=&#34;https://github.com/you/weather-app%22&#34;&gt;https://github.com/you/weather-app&amp;quot;&lt;/a&gt;&#xA;description = &amp;ldquo;Real-time weather dashboard&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
